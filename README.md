@@ -34,6 +34,7 @@ You might be interested in the [Tech Interview Handbook](https://github.com/yang
 * [Tagalog](/Translations/Tagalog/README.md)
 * [Japanese (日本語)](/Translations/Japanese/README.md)
 * [Korean](/Translations/Korean/README.md)
+* [Vietnamese (Tiếng Việt)](/Translations/Vietnamese/README.md)
 
 ## Related
 
